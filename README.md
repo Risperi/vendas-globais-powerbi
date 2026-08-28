@@ -4,7 +4,7 @@ Dashboard analítico para monitoramento de vendas, margem de desconto e performa
 
 # 📊 Dashboard Analítico de Vendas Globais
 
-![Preview do Dashboard](dashboard-preview.png)
+![Preview do Dashboard](dashboard-preview.png.jpeg)
 
 ## 📌 Visão Geral do Projeto
 Este projeto consiste em um painel interativo desenvolvido no **Power BI** para analisar dados de vendas globais. O objetivo é consolidar métricas essenciais de desempenho financeiro e operacional, permitindo uma leitura rápida de volumes de vendas, comportamento regional e impacto de descontos por subcategoria de produto.
